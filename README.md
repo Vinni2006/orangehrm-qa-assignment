@@ -29,3 +29,6 @@ This repository contains the QA testing assignment for OrangeHRM. The project in
 
 ## Conclusion
 The application was tested for core functionalities and the results are documented in this repository.
+
+Repository Link:
+https://github.com/Vinni2006/orangehrm-qa-assignment
